@@ -1,5 +1,5 @@
 {
-  "name": "react-swipeable-views-workspace",
+  "name": "@huebert/react-swipeable-views-workspace",
   "version": "0.12.17",
   "private": true,
   "scripts": {
