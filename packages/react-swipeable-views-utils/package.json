@@ -1,6 +1,6 @@
 {
   "name": "react-swipeable-views-utils",
-  "version": "0.13.4-huebert.0",
+  "version": "0.13.4-huebert.1",
   "description": "react-swipeable-views utility modules",
   "main": "lib/index.js",
   "scripts": {
